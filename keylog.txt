@@ -1,0 +1,4 @@
+[{date} {time}] Window: {window-value} | Key pressed: {key-value}
+
+this is just a simple example, how your output will look like
+
